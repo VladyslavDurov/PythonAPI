@@ -15,5 +15,5 @@ def my_decor(param):
 def some_func(arg):
     print arg
 
-some_func('How killed')
+some_func('Who killed')
 
